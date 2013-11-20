@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 3,
   "name": "First Base",
   "minimum_chrome_version": "24.0.1307.0",
   "version": "2.0",
