@@ -19,7 +19,7 @@ it's just a simple empty window ...
     * Click the "Launch" link for this new extension
 
 
-(after "getting to first-base" you might to start throwing objects and widgets into your "base" using the <webview> tag ... it's like an iframe but is a complete, top-level, non-bustable browser instance. 
+(after "getting to first-base" you might to start throwing objects and widgets into your "base" using the &lt;webview&gt; tag ... it's like an iframe but is a complete, top-level, non-bustable browser instance. 
 
    ... try http://github.com/figital/base)
 
