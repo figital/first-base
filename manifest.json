@@ -1,7 +1,7 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "First Base",
-  "minimum_chrome_version": "24.0.1307.0",
+  "minimum_chrome_version": "39.0",
   "version": "2.0",
   "icons": {
     "16": "img/glass-16.png",
