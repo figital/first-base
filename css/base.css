@@ -16,8 +16,8 @@ h1 {
 	font-weight:bold;
 	color:#aaa;
 	padding:0px;
-	margin-top:10px;
-	margin-bottom:25px;
+	margin-top:5px;
+	margin-bottom:35px;
 
 	
 }
@@ -27,4 +27,22 @@ h1 {
 	top:10px;
 	right:10px;
 	padding:10px;
+}
+
+.utf-test {
+	border:1px solid #aaa;
+	color:1px solid #999;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+	line-height:170%;
+	font-size:12px;
+}
+
+#glass {
+	height:36px;
+	width:36px;
+	float:left;
+	margin-right:10px;
+	vertical-align:text-top;
 }
