@@ -3,6 +3,8 @@ first-base
 
 this is just the most minimal shell to toggle fullscreen from a chrome packaged app.
 
+a "boilerplate packaged app" if you will.
+
 you want to build a full-screen desktop application. start here.
 
 it's just a simple empty window ...
@@ -22,4 +24,6 @@ it's just a simple empty window ...
 (after "getting to first-base" you might to start throwing objects and widgets into your "base" using the &lt;webview&gt; tag ... it's like an iframe but is a complete, top-level, non-bustable browser instance. 
 
    ... try http://github.com/figital/base)
+   
+**9/17/2014:** (base isn't necessary anymore now that "relaunch Chrome in OS mode" has dropped)
 
