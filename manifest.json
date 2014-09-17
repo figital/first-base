@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2.01,
+  "manifest_version": 3,
   "name": "First Base: The Packaged App Boilerplate",
   "short_name": "First Base",
   "minimum_chrome_version": "39.0",
