@@ -11,6 +11,8 @@ chrome.app.runtime.onRestarted.addListener(function() {
 
 function runApp() {
   chrome.app.window.create('index.html', {
+  'minWidth': 600,
+  'minHeight': 400,   
     bounds: {
       'width': 640,
       'height': 480
